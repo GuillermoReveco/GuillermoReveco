@@ -1,3 +1,4 @@
+![Simple-Technology-LinkedIn-Banner](https://user-images.githubusercontent.com/111543595/224320385-c13858c3-1634-4109-abea-7b0ac4a03a08.png)
 <h1 align="center">Hi 👋, I'm Guillermo Reveco 🧑‍💻🎸🎹🎧🎵</h1>
 <h3 align="center">A passionate Full-Stack developer from Chile who loves solving problems and mastering new technologies</h3>
 
